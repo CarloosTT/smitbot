@@ -1,1 +1,1 @@
-worker: node smit.js
+worker: node .
